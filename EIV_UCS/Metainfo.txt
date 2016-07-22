@@ -1,6 +1,6 @@
 Name of QuantLet : EIV_UCS
 Published in: EIV_UCS
-Description: 'Perform bivariate kernel smoothed regression and bootstrapped confidence bands for gasoline demand on personal income and gasoline price.'
+Description: 'Performs bivariate kernel smoothed regression and bootstrapped confidence bands for gasoline demand on personal income and gasoline price.'
 Keywords: bootstrap, error, kernel, confidence-bands, conditional mean
 Author [New]: Kun Ho Kim
 Author: Shih-Kang Chao
