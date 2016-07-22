@@ -4,7 +4,7 @@ Published in: EIV_UCS
 
 Description: 'Performs bivariate kernel smoothed regression and bootstrapped confidence bands for gasoline demand on personal income and gasoline price.'
 
-Keywords: bootstrap, error, kernel, confidence-bands, conditional mean
+Keywords: 'bootstrap, error, kernel, confidence-bands, conditional mean'
 
 Author [New]: Kun Ho Kim
 
